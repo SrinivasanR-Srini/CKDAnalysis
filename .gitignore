@@ -32,6 +32,9 @@ wheels/
 *.csv
 *.data
 
+# CatBoost
+catboost_info/
+
 # Virtual environments
 venv/
 ENV/
