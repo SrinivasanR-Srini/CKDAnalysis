@@ -9,3 +9,4 @@ catboost>=1.2.0
 jupyter>=1.0.0
 notebook>=6.5.0
 requests>=2.28.0
+ucimlrepo>=0.0.3
