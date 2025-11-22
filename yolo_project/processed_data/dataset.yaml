@@ -1,0 +1,9 @@
+names:
+- Negative
+- Positive
+- Uncertain
+nc: 3
+path: c:\fit_fest_2025_entrepreneurchallenge\repo\CKDAnalysis\yolo_project\processed_data
+test: test/images
+train: train/images
+val: val/images
